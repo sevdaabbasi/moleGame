@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Score: 0"; ObjectID = "9LI-6r-Gt1"; */
+"9LI-6r-Gt1.text" = "Score: 0";
+
+/* Class = "UILabel"; text = "30"; ObjectID = "lGQ-m1-mQA"; */
+"lGQ-m1-mQA.text" = "30";
+
+/* Class = "UILabel"; text = "Highscore:0"; ObjectID = "sax-NP-AaJ"; */
+"sax-NP-AaJ.text" = "Highscore:0";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "xaU-JR-ZmN"; */
+"xaU-JR-ZmN.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xaU-JR-ZmN"; */
+"xaU-JR-ZmN.normalTitle" = "Button";
